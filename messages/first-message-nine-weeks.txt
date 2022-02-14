@@ -1,0 +1,14 @@
+Hi [PARENT_NAME],
+
+My name is Mr. Wang, and I am [STUDENT_NAME]'s Computer Science teacher.
+
+[STUDENT_NAME] currently has a [GRADE_AVERAGE] (as of 8:00 AM this morning) and is in danger of failing for the nine weeks.
+I have spoken with them about strategies to get things turned in to bring their grade up.
+Could you check in with [STUDENT_NAME] and help with getting them back on track?
+
+Please let me know if you have received this message, and if you would like a list of assignments they could work on, please let me know.
+
+Looking forward to hearing from you and working with you to help [STUDENT_NAME] succeed!
+
+Best,
+Charles Wang
